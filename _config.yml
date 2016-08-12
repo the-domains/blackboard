@@ -1,0 +1,14 @@
+layout_spectrum: 0.4779762648977339
+typography_spectrum: 0.9589268697891384
+color:
+  brandStrength: 0.5193133715074509
+  lightness: 0.28550773742608726
+  saturation: 0.8377270153723657
+  rhythmicContrast: 0.22023851214908063
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Blackboard
